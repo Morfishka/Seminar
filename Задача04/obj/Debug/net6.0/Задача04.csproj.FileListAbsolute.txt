@@ -1,0 +1,15 @@
+D:\repo\Seminar\Задача04\bin\Debug\net6.0\Задача04.exe
+D:\repo\Seminar\Задача04\bin\Debug\net6.0\Задача04.deps.json
+D:\repo\Seminar\Задача04\bin\Debug\net6.0\Задача04.runtimeconfig.json
+D:\repo\Seminar\Задача04\bin\Debug\net6.0\Задача04.dll
+D:\repo\Seminar\Задача04\bin\Debug\net6.0\Задача04.pdb
+D:\repo\Seminar\Задача04\obj\Debug\net6.0\Задача04.csproj.AssemblyReference.cache
+D:\repo\Seminar\Задача04\obj\Debug\net6.0\Задача04.GeneratedMSBuildEditorConfig.editorconfig
+D:\repo\Seminar\Задача04\obj\Debug\net6.0\Задача04.AssemblyInfoInputs.cache
+D:\repo\Seminar\Задача04\obj\Debug\net6.0\Задача04.AssemblyInfo.cs
+D:\repo\Seminar\Задача04\obj\Debug\net6.0\Задача04.csproj.CoreCompileInputs.cache
+D:\repo\Seminar\Задача04\obj\Debug\net6.0\Задача04.dll
+D:\repo\Seminar\Задача04\obj\Debug\net6.0\refint\Задача04.dll
+D:\repo\Seminar\Задача04\obj\Debug\net6.0\Задача04.pdb
+D:\repo\Seminar\Задача04\obj\Debug\net6.0\Задача04.genruntimeconfig.cache
+D:\repo\Seminar\Задача04\obj\Debug\net6.0\ref\Задача04.dll
