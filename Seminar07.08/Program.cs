@@ -16,12 +16,31 @@
 // 34, 5 -> не кратно, остаток 4
 // 16, 4 -> кратно
 
-Console.Write("Введите первое число ");
-int num1 = Convert.ToInt32(Console.ReadLine());
-Console.Write("Введите второе число ");
-int num2 = Convert.ToInt32(Console.ReadLine());
+// Console.Write("Введите первое число ");
+// int num1 = Convert.ToInt32(Console.ReadLine());
+// Console.Write("Введите второе число ");
+// int num2 = Convert.ToInt32(Console.ReadLine());
 
-if (num1 % num2 != 0)
-{
-    Console.WriteLine(num1 % num2);
-}
+// if (num1 % num2 != 0)
+// {
+//     Console.WriteLine(num1 % num2);
+// }
+
+// Задача 14: Напишите программу, которая принимает на вход число и проверяет, кратно ли оно одновременно 7 и 23.
+// 14 -> нет
+// 46 -> нет
+// 161 -> да
+
+Console.Write("Введите число ");
+int num = Convert.ToInt32(Console.ReadLine());
+ 
+ if (num % 7 == 0 & num % 23 == 0)
+ {
+    Console.WriteLine("Да");
+ }
+ else
+ {
+    Console.WriteLine("Нет");
+ }
+
+ 
